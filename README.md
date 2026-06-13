@@ -158,13 +158,11 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-### Ruchitha Sampath
+### Ruchitha Sampath Weerasekara
 
 MSc Data Science  
 University of East Anglia, United Kingdom
 
-- GitHub: https://github.com/Ruchitha98
-- LinkedIn: https://linkedin.com/in/ruchitha-sampath
 
 ---
 
